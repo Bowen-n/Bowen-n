@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Bowen](https://github.com/Bowen-n).
 - 🧑🏻‍💻 A master student at School of Cyber Science and Engineering, SJTU.
-- 🌱 Learning about Network Security + AI.
+- 🌱 Current learning Network Security + AI.
 - 🌟 Research interests
   - malware detection
   - code vulnerability detection and localization
