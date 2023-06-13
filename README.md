@@ -2,9 +2,9 @@
 - 🧑🏻‍💻 A master student at School of Cyber Science and Engineering, SJTU.
 - 🌱 Currently researching on AI+Security.
 - 🌟 Research interests
-  - malware detection
-  - code vulnerability detection and localization
-  - binary/source code similarity detection
+  - binary code similarity analysis (malware detection)
+  - source code vulnerability detection and localization
+  - LLM for Security
 
 ### 🛠️ Languages and Tools:
 
