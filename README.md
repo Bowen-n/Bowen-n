@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm [Bowen](https://github.com/Bowen-n).
 - 🧑🏻‍💻 A master student at School of Cyber Science and Engineering, SJTU.
 - 🌱 Currently researching on AI+Security.
-- 🌟 Research interests
-  - binary code similarity analysis (malware detection)
-  - source code vulnerability detection and localization
+- 🌟 Research interests: AI for Security
+  - binary code similarity analysis
+  - source code vulnerability detection
   - LLM for Security
 
 ### 🛠️ Languages and Tools:
