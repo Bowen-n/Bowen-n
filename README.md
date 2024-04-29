@@ -1,3 +1,3 @@
 ### Hi 👋, I'm [Bowen](https://github.com/Bowen-n).
-- 🧑🏻‍💻 School of Cyber Science and Engineering at SJTU -> KeenLab at Tencent.
-- 🌱 Currently working on AI for Security.
+- 🎓 A graduate from SJTU, where I pursued my Master's degree in cybersecurity.
+- 🧑🏻‍💻 Currently a researcher focusing on AI for Security at KeenLab, Tencent.
