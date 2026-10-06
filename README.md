@@ -8,8 +8,8 @@ I'm an **AI & Cybersecurity Researcher** at [Tencent Keen Security Lab](https://
 
 ### Research Interests
 
-- **AI Agents for Security** — Developing agents for multi-step cyber investigations, security analysis, and reverse engineering.
-- **Agent Detection & Response (AgentDR)** — Monitoring agent behavior, detecting risky tool use, and enforcing runtime controls to prevent unsafe actions.
-- **LLM Post-Training for Cyber Capabilities (SFT/RL)** — Enhancing LLM capabilities in reverse engineering and vulnerability analysis through supervised fine-tuning and reinforcement learning.
+- **AI Agents for Security** — Developing agents for multi-step cyber investigations, security analysis, reverse engineering, etc.
+- **AgentDR** — Monitoring agent behavior, detecting risky tool use, and enforcing runtime controls to prevent unsafe actions.
+- **LLM Post-Training for Cyber Capabilities** — Enhancing LLM capabilities across cybersecurity tasks (reverse engineering, vulnerability analysis, etc.) through SFT/RL.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bowen-n.Bowen-n)
